@@ -1,0 +1,22 @@
+/* Odd numbered elements classes */
+.paragraph {
+    background-color: #ff8484;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.alt {
+    background-color: #ff8484;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-size: 24px;
+}
+/* number 2 */
+#idtwo {
+    color:rgb(84, 84, 255);
+    font-size: 36px;
+}
+/* number 4 */
+#idfour {
+    background-color: rgb(55, 211, 55);
+    font-weight: bold;
+    font-size: 24px;
+}
